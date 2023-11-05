@@ -12,18 +12,17 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'About'
-      url: '/about/'
+#    - title: 'About'
+#      url: '/about/'
     - title: 'Work'
       url: '/work/'
     - title: 'Writing'
       url: '/blog/'
-    - title: 'Pages'
-      submenu:
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+    - title: 'Contact'
+      url: '/contact/'
+#      submenu:
+#      - url: '/elements/'
+#        title: 'Elements'
 
 
 #-------------------------------
@@ -31,7 +30,7 @@ menu__settings:
 author:
   author__name: Kerrie Mariah
   author__bio: Specializing in crafting innovative web solutions and compelling content. My journey from coding to finance and back to tech equips me with a unique blend of skills to tackle complex challenges with creativity and precision.
-  author__avatar: '/images/01.jpg'
+  author__avatar: '/images/img1.png'
 
 social:
 - {icon: "ion-logo-facebook", link: "https://facebook.com"}
@@ -48,7 +47,7 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hey everyone, I’m Kerrie Mariah
+  hero__title: Welcome, I am Kerrie Mariah
   hero__description: Specializing in crafting innovative web solutions and compelling content. My journey from coding to finance and back to tech equips me with a unique blend of skills to tackle complex challenges with creativity and precision
   hero__image: "/images/01-1.jpg"
 
@@ -70,7 +69,7 @@ logo__items:
 
   - name: Deutsche Bank
     link: "https://www.pinterest.com/"
-    image: "/images/deutschebank.svg"
+    image: "/images/deutsche.svg"
 
   - name: Murder Mystery Dinner
     link: "https://amurdermysterydinner.com/"
@@ -89,22 +88,22 @@ logo__items:
 mailchimp:
   enable: true
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-  mailchimp__input__text: Your email address...
-  mailchimp__button__text: Subscribe
+  mailchimp__input__text: 
+  mailchimp__button__text: Schedule a Free Consultation
 
 
 #-------------------------------
 # Work Settings
 work:
   enable: true
-  work__title: Work
-  work__description: I offer a wide range of services ranging from technical documentation creation, to creative writing and content writing, SEO and marketing, as well as web development for growing businesses. 
+  work__title: My Work
+  work__description: I offer a wide range of services from technical documentation creation, to creative content writing, SEO marketing, as well as web development for growing businesses. 
 
 
 #-------------------------------
 # Testimonials Section
 testimonials:
-  enable: true
+  enable: false
 
 testimonial__title: Clients
 testimonial__description:
@@ -164,6 +163,56 @@ testimonial__items:
     link: "https://twitter.com/"
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
+#-------------------------------
+# Logos Settings
+logos:
+  enable: true
+  logos__title: I’ve worked with some great сompanies
+
+p_languages__items:
+  - name: Ruby
+    link: "https://www.ruby-lang.org/en/"
+    image: "/images/ruby-lang-horizontal.svg"
+
+  - name: Java
+    link: "https://www.springboard.com/"
+    image: "/images/java-horizontal.svg"
+
+  - name: CSS
+    link: "https://amurdermysterydinner.com/"
+    image: "/images/w3_css-ar21.svg"
+
+  - name: JavaScript
+    link: "https://rigginghk.com/"
+    image: "/images/javascript-horizontal.svg"
+
+  - name: Macquarie
+    link: "https://www.macquarie.com/hk.html"
+    image: "/images/mysql-horizontal.svg"
+
+  - name: Macquarie
+    link: "https://www.macquarie.com/hk.html"
+    image: "/images/dotnet-horizontal.svg"
+
+  - name: Macquarie
+    link: "https://www.macquarie.com/hk.html"
+    image: "/images/springio-ar21.svg"
+
+  - name: JavaScript
+    link: "https://rigginghk.com/"
+    image: "/images/python-horizontal.svg"
+
+  - name: Macquarie
+    link: "https://www.macquarie.com/hk.html"
+    image: "/images/w3_html5-ar21.svg"
+
+  - name: Macquarie
+    link: "https://www.macquarie.com/hk.html"
+    image: "/images/git-scm-ar21.svg"
+
+  - name: Macquarie
+    link: "https://www.macquarie.com/hk.html"
+    image: "/images/-ImiUh__reactivex.svg"
 
 #-------------------------------
 # Blog Section
@@ -182,7 +231,7 @@ footer__background__image: "/images/bg.jpg"
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your form_id
+  email: xknlezda # Add your form_id
   description: Akio comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE

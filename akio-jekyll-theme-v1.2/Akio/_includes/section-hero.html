@@ -30,6 +30,21 @@
         </div>
       </div>
 
+
+      {% if site.data.settings.calendly.enable == true %}
+      <div class="hero__subscribe">
+        <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/kerrie-mariah/30min?primary_color=325d64'});return false;">
+        <button class="button button--primary subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">
+          <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+          <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+          Schedule a Free Consultation
+        </button>
+      </a>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+
       <div class="col col-5 col-d-12">
         <div class="hero__right">
           <div class="hero__image">
