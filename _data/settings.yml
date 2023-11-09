@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Kerrie Mariah
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: #'/images/img2.png'
 description: Narrating Nuance, Crafting Concepts, Sparking Solutions
 color_scheme: dark # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -234,13 +234,19 @@ certificate__items:
     link: "https://courses.edx.org/certificates/0da1b6ed73ab4d3399a80fb165706138?_gl=1*k81vwr*_ga*MTkyNDMzNjk0NC4xNjk5NDkxODI0*_ga_D3KS4KMDT0*MTY5OTQ5MTgyNC4xLjEuMTY5OTQ5MTgzMi41Mi4wLjA."
     image: "/images/image2vector.svg"
 
-  - name: Java
-    link: 
-    image: "/images/java-horizontal.svg"
+  - name: ReactX
+    link: https://www.udemy.com/certificate/UC-4129fd7e-ab7a-4b81-b111-14af2202bb36/
+    image: "/images/reactivexcert.svg"
 
-  - name: CSS
+  - name: Algos
     link: 
-    image: "/images/w3_css-ar21.svg"
+    image: "/images/algocertprinceton.svg"
+
+#-------------------------------
+# Scheduling Settings
+scheduling:
+  enable: true
+  scheduling__title: Schedule a free consultation!
 
 #-------------------------------
 # Footer Settings
