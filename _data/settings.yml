@@ -29,15 +29,15 @@ menu__settings:
 # Author Settings
 author:
   author__name: Kerrie Mariah
-  author__bio: Specializing in crafting innovative web solutions and compelling content. My journey from coding to finance and back to tech equips me with a unique blend of skills to tackle complex challenges with creativity and precision.
+  author__bio: Specializing in crafting innovative web solutions and compelling content
   author__avatar: '/images/img1.png'
 
 social:
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
-- {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/kerriedurham/"}
+- {icon: "ion-logo-facebook", link: "https://www.facebook.com/kerrie.mariah.durham/"}
+- {icon: "ion-logo-instagram", link: "https://www.instagram.com/kerrie_mariah/"}
+- {icon: "ion-logo-github", link: "https://github.com/KerrieMariah"}
+
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -48,7 +48,7 @@ social:
 hero:
   enable: true
   hero__title: Welcome, I am Kerrie Mariah
-  hero__description: Specializing in crafting innovative web solutions and compelling content. My journey from coding to finance and back to tech equips me with a unique blend of skills to tackle complex challenges with creativity and precision
+  hero__description: Self-taught programmer turned corporate finance maven on the bustling trade floors, now the proud founder of my own enterprise. This eclectic professional journey has armed me with a comprehensive skill set, perfectly poised to meet diverse business needs—from innovative web solutions to impactful content, all delivered with a fusion of strategic insight and technological expertise
   hero__image: "/images/01-1.jpg"
 
 
@@ -97,7 +97,7 @@ calendly:
 work:
   enable: true
   work__title: My Work
-  work__description: I offer a wide range of services from technical documentation creation, to creative content writing, SEO marketing, as well as web development for growing businesses. 
+  work__description: I offer a diverse array of services, including technical documentation, creative content writing, SEO marketing, and web development, all tailored to support the growth of dynamic businesses.
 
 
 #-------------------------------
@@ -164,54 +164,54 @@ testimonial__items:
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
 #-------------------------------
-# Logos Settings
-logos:
+# P Languages Settings
+p_languages:
   enable: true
-  logos__title: I’ve worked with some great сompanies
+  p_languages__title: I have extensive experience in the following languages and frameworks
 
 p_languages__items:
   - name: Ruby
-    link: "https://www.ruby-lang.org/en/"
+    link: 
     image: "/images/ruby-lang-horizontal.svg"
 
   - name: Java
-    link: "https://www.springboard.com/"
+    link: 
     image: "/images/java-horizontal.svg"
 
   - name: CSS
-    link: "https://amurdermysterydinner.com/"
+    link: 
     image: "/images/w3_css-ar21.svg"
 
   - name: JavaScript
-    link: "https://rigginghk.com/"
+    link: 
     image: "/images/javascript-horizontal.svg"
 
-  - name: Macquarie
-    link: "https://www.macquarie.com/hk.html"
+  - name: MySQL
+    link: 
     image: "/images/mysql-horizontal.svg"
 
   - name: Macquarie
-    link: "https://www.macquarie.com/hk.html"
+    link: 
     image: "/images/dotnet-horizontal.svg"
 
   - name: Macquarie
-    link: "https://www.macquarie.com/hk.html"
+    link: 
     image: "/images/springio-ar21.svg"
 
   - name: JavaScript
-    link: "https://rigginghk.com/"
+    link: 
     image: "/images/python-horizontal.svg"
 
   - name: Macquarie
-    link: "https://www.macquarie.com/hk.html"
+    link: 
     image: "/images/w3_html5-ar21.svg"
 
   - name: Macquarie
-    link: "https://www.macquarie.com/hk.html"
+    link: 
     image: "/images/git-scm-ar21.svg"
 
   - name: Macquarie
-    link: "https://www.macquarie.com/hk.html"
+    link: 
     image: "/images/-ImiUh__reactivex.svg"
 
 #-------------------------------
@@ -223,6 +223,24 @@ blog__settings:
   blog__title: Writing
   blog__description:
 
+#-------------------------------
+# Certification Settings
+certificates:
+  enable: true
+  certificates__title: A selection of my professional certifications
+
+certificate__items:
+  - name: Data Structures
+    link: "https://courses.edx.org/certificates/0da1b6ed73ab4d3399a80fb165706138?_gl=1*k81vwr*_ga*MTkyNDMzNjk0NC4xNjk5NDkxODI0*_ga_D3KS4KMDT0*MTY5OTQ5MTgyNC4xLjEuMTY5OTQ5MTgzMi41Mi4wLjA."
+    image: "/images/image2vector.svg"
+
+  - name: Java
+    link: 
+    image: "/images/java-horizontal.svg"
+
+  - name: CSS
+    link: 
+    image: "/images/w3_css-ar21.svg"
 
 #-------------------------------
 # Footer Settings

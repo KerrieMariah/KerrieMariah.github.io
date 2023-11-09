@@ -1,20 +1,18 @@
-{% if site.data.settings.logos.enable == true %}
-<!-- begin logos -->
+{% if site.data.settings.p_languages.enable == true %}
+<!-- begin p languagess -->
 <section class="section logos animate">
   <div class="container">
     <div class="row">
       <div class="col col-12">
 
         <div class="section__info">
-          <h2 class="section__small__title">{{ site.data.settings.logos.logos__title }}</h2>
+          <h2 class="section__small__title">{{ site.data.settings.p_languages.p_languages__title }}</h2>
         </div>
 
         <ul class="logos__list list-reset">
           {% for logo in site.data.settings.p_languages__items %}
           <li class="logos__item">
-            <a href="{{ logo.link }}" class="logos__link" rel="noopener">
-              <img src="{{ logo.image }}" alt="{{ logo.name }}" class="logos__image">
-            </a>
+            <img src="{{ logo.image }}" alt="{{ logo.name }}" class="logos__image">
           </li>
           {% endfor %}
         </ul>

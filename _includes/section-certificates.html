@@ -1,0 +1,25 @@
+{% if site.data.settings.certificates.enable == true %}
+<!-- begin p languagess -->
+<section class="section certificates animate">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+
+        <div class="section__info">
+          <h2 class="section__small__title">{{ site.data.settings.certificates.certificates__title }}</h2>
+        </div>
+
+        <ul class="certificates__list list-reset">
+          {% for logo in site.data.settings.certificate__items %}
+          <li class="certificates__item">
+            <img src="{{ logo.image }}" alt="{{ logo.name }}" class="certificates__image">
+          </li>
+          {% endfor %}
+        </ul>
+
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end certificates -->
+{% endif %}
