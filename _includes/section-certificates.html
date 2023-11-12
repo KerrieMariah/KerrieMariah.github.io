@@ -12,7 +12,10 @@
         <ul class="certificates__list list-reset">
           {% for logo in site.data.settings.certificate__items %}
           <li class="certificates__item">
-            <img src="{{ logo.image }}" alt="{{ logo.name }}" class="certificates__image">
+            <a href="{{ logo.link }}" class="logos__link" rel="noopener">
+              <img src="{{ logo.image }}" alt="{{ logo.name }}" class="certificates__image">
+            </a>
+            
           </li>
           {% endfor %}
         </ul>

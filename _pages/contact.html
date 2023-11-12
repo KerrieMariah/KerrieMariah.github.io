@@ -9,6 +9,7 @@ image:
   <div class="contact-head">
     {% if site.data.settings.contact.description %}
     <p class="contact-description">{{site.data.settings.contact.description}}</p>
+    <p class="contact-description">{{site.data.settings.contact.other_contact_info}}</p>
     {% endif %}
   </div>
   <form class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/f/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST">

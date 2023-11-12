@@ -30,6 +30,7 @@ menu__settings:
 author:
   author__name: Kerrie Mariah
   author__bio: Specializing in crafting innovative web solutions and compelling content
+  author__email: kerrie.m.durham@gmail.com
   author__avatar: '/images/img1.png'
 
 social:
@@ -220,7 +221,7 @@ blog:
   enable: true
 
 blog__settings:
-  blog__title: Writing
+  blog__title: Examples of My Writing
   blog__description:
 
 #-------------------------------
@@ -256,8 +257,8 @@ footer__background__image: "/images/bg.jpg"
 # Contact Settings
 contact:
   email: xknlezda # Add your form_id
-  description: Akio comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
-
+  description: Thank you for reaching out! I'll get back to you as soon as I can.  # Add a description of your form
+  other_contact_info: You can also reach me at at kerrie.m.durham@gmail.com or on Whatsapp at +85251211421
 # NOTE
 # Akio theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
 

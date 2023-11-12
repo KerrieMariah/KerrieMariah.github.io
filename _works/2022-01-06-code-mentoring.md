@@ -9,19 +9,19 @@ image: '/images/work-5.jpg'
 image_caption: 
 ---
 
-Hey there! I've spent countless hours getting my hands dirty in the world of coding and I know how difficult it can be starting out - especially if you're teaching yourself! But I have found so much joy in sharing what I've learned with others, including tips and tricks that give you a bit of an edge in hte competitive tech market.
+Hey there! Diving into the world of coding can be daunting, especially when you're forging the path on your own. I've spent countless hours immersed in coding, facing the challenges firsthand. Sharing my journey, along with the tips and tricks I've learned, has brought immense joy – especially when it gives others an edge in the competitive tech market.
 
 ### Mentoring the Next Wave of Coders
 
-While in Hong Kong, I spent time with middle school students teaching them the basics of programming and the cyberworld of our computers. Through lessons on HTML, CSS, and Javascript, I helped them in creating their first personalised websites, watching them light up as they customised every aspect of it. When it comes to learning a new skill, I believe in getting started on projects early as it leads to better understanding and creativity in the world of tech. Not to mention the twinkle in their eyes is priceless.
+While in Hong Kong, I had the incredible opportunity to mentor middle school students, introducing them to the fundamentals of programming and the digital world. We dived into HTML, CSS, and JavaScript, guiding them through building their first personalized websites. There's something magical about seeing their excitement as they tailor every detail. I firmly believe that early hands-on projects foster deeper understanding and spark creativity in tech – not to mention, the spark in their eyes is utterly priceless.
 
 ### Springboard Mentorship
 
-Through the company Springboard, I've mentored upcoming tech enthusiasts of all ages, sharing insights, answering queries, and troubleshooting problems. The feedback? A stream of high ratings and gratitude from mentees. Each mentoring session for me is more than just a class—it's a connection, a shared journey into the discovery of how to shape the cyber realm. 
+Working with Springboard, I've mentored aspiring tech enthusiasts of various ages, offering insights, resolving queries, and navigating through challenges together. The feedback? A continuous flow of high ratings and heartfelt thanks. For me, each mentoring session is more than a lesson; it’s about forming a connection and embarking on a shared journey of discovery in the vast cyber world.
 
 ### A Fresh Approach to Teaching
 
-Forget the traditional, textbook-heavy learning. I like to shake things up. Whether it's using quirky analogies, setting up exciting challenges, or weaving in fun activities, my aim is to make tech not just understandable, but utterly captivating. Dive in with me, and let's explore the coding universe together!
+Forget the dry, textbook-heavy approach. My teaching style is all about dynamism and engagement. Be it through quirky analogies, stimulating challenges, or interactive activities, my goal is to make tech not just accessible but irresistibly enthralling. Join me in unraveling the wonders of coding – let's turn this adventure into an unforgettable journey!
 
 
 -- add image of zoomcall with maureen

@@ -9,25 +9,23 @@ image: '/images/work-4.jpg'
 image_caption: 'Photo from artswaphk [ArtSwapHK](https://www.artswaphk.com/kerrie-x-katie)'
 ---
 
-In today's day and age we've seen a recent influx of lazy writing in journalism, books, and online articles. I've noticed more grammatical errors, poor plot focus, and articles that lack any heartfelt feel. This will only increase with the advent of artificial intelligence like ChatGPT that is being used more and more to write quick articles for a cheap buck. In contrast, I offer a true all-human human service from the heart with a quick turnaround. I've been writing from a young age and continue to write almost daily as a passion of mine to express what I've learned and see in the world. 
+In today’s world, there’s a noticeable surge in lazy writing across journalism, books, and online articles. Rampant grammatical errors, scattered plot focus, and articles devoid of genuine emotion are increasingly common. This trend may escalate with the growing use of artificial intelligence tools like ChatGPT for generating quick, cost-effective content. In stark contrast, I offer an entirely human-driven service, infused with heartfelt sincerity and delivered with swift efficiency. Writing has been a lifelong passion for me, a daily practice where I articulate my observations and learning experiences.
 
-> Through her prose, Kerrie Mariah masterfully captures the essence of human emotion and experience, effortlessly guiding readers on a journey that resonates deeply with the complexities of life. Her narrative is both authentic and evocative, revealing a talent for turning personal introspection into universally relatable tales
+> Through her prose, Kerrie Mariah masterfully captures the essence of human emotion and experience. She effortlessly guides readers through narratives that resonate deeply with the complexities of life. Her writing is both authentic and evocative, turning personal introspection into universally relatable stories.
 
-I've experienced a wide range of what life has to offer from medical training when I was getting my EMT license (including work in ambulances), to my five years in corporate finance, to striking out on my own to start my own company. I've been a competitive athlete at University of Florida competing all over the USA, worked in a four person startup while at an accelerator in New York City that was later bought out, <a href="https://www.seacrest.org/cf_news/view.cfm?newsid=12">lived with a rural farming village in the Atlas mountains of Morocco for a month</a>, bought a one way ticket to Hong Kong to start a new life there, lived through the Hong Kong protests and its harsh covid lockdown, have fallen in and out of love, was filmed on TV in Moscow speaking terrible Russian, have trekked for weeks in the Himalayas, traveled throughout China, wreck dived in the Philippines and have been hospitalised in over five different countries.It is from these experiences and many more (some that can't be published) that I draw from to write either raw and authentic material, or corporate and cryptic, I am a chamelion that can adapt to your company's needs. 
-
-<div class="gallery-box">
-<div class="gallery">
-<a href="https://the-traveling-coder.com/"> You can check out some of my raw and authentic writing style here</a>
-</div>
-</div>
+My life’s journey has been as diverse as it has been profound. From medical training for my EMT license, including ambulance work, to a five-year stint in corporate finance, and then embarking on an entrepreneurial venture, my experiences are varied. I've been a competitive athlete at the University of Florida, part of a small startup in a New York City accelerator, and have embraced life in a <a href="https://www.seacrest.org/cf_news/view.cfm?newsid=12"> rural farming village in Morocco’s Atlas mountains.</a> My adventures include moving to Hong Kong on a one-way ticket, experiencing the city's protests and strict COVID lockdowns, navigating the complexities of love, appearing on Russian TV speaking my best attempt at the language, trekking in the Himalayas, wreck diving in the Philippines, and being hospitalized in over five countries. It is from these rich experiences (and some untold tales) that I draw inspiration to write content that ranges from raw and authentic to corporate and nuanced, adapting seamlessly to meet your company's needs.
 
 <div class="gallery-box">
 <div class="gallery">
-<a href="https://www.artswaphk.com/kerrie-x-katie"> My published poetry can be found here </a>
+<a href="https://the-traveling-coder.com/"> Explore my unique writing style here</a>
 </div>
 </div>
 
+<div class="gallery-box">
+<div class="gallery">
+<a href="https://www.artswaphk.com/kerrie-x-katie"> Discover my published poetry here</a>
+</div>
+</div>
 
-
-The world of literature is as dynamic as any, with ever-changing themes, styles, and narratives. Drawing from my varied experiences, I ensure that my work is not just contemporary but timeless. Whether it's the structured world of finance, the unpredictability of medical emergencies, or the rhythmic flow of poetry, I blend these elements, crafting works that are both relatable and transcendent.
+Literature is a dynamic world of evolving themes, styles, and narratives. Drawing from my vast experiences, I ensure my work is not only contemporary but timeless. Whether delving into the structured world of finance, the unpredictability of medical emergencies, or the rhythmic nuances of poetry, I merge these diverse elements to craft works that are both relatable and transcendent.
 
