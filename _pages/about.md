@@ -3,12 +3,9 @@ layout: page
 title: About Kerrie Mariah
 description: Welcome to my world! I'm Kerrie Mariah, a passionate technologist, writer, mentor, and adventure seeker. My journey is as colorful and diverse as the code on a developer's screen. From the buzzing trade floors of corporate finance to the serenity of the Atlas mountains, from the competitive grounds of the University of Florida to the vibrant streets of Hong Kong, my life has been a tapestry of rich experiences and daring adventures.
 permalink: /about/
-image: '/images/ebc.jpg'
-image_caption: ''
+# image: ''
+# image_caption: ''
 ---
-
-
-Welcome to my world! I'm Kerrie Mariah, a passionate technologist, writer, mentor, and adventure seeker. My journey is as colorful and diverse as the code on a developer's screen. From the buzzing trade floors of corporate finance to the serenity of the Atlas mountains, from the competitive grounds of the University of Florida to the vibrant streets of Hong Kong, my life has been a tapestry of rich experiences and daring adventures.
 
 ### The Tech Enthusiast
 Self-taught and endlessly curious, I dove headfirst into the world of programming. The journey wasn’t easy, but it was thrilling. Along the way, I've not only mastered the languages of computers but also learned the art of transforming complex, technical ideas into simple, elegant solutions. As a developer, I've tackled projects ranging from dynamic financial applications to creative web development, always with a keen eye for detail and a flair for innovation.

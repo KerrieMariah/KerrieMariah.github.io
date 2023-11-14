@@ -5,7 +5,7 @@ category: Code Mentoring
 date: 2022-01-06 08:01:35 +0300
 client: 
 role: Mentoring
-image: '/images/work-5.jpg'
+image: '/images/laptop.png'
 image_caption: 
 ---
 
@@ -22,9 +22,3 @@ Working with Springboard, I've mentored aspiring tech enthusiasts of various age
 ### A Fresh Approach to Teaching
 
 Forget the dry, textbook-heavy approach. My teaching style is all about dynamism and engagement. Be it through quirky analogies, stimulating challenges, or interactive activities, my goal is to make tech not just accessible but irresistibly enthralling. Join me in unraveling the wonders of coding – let's turn this adventure into an unforgettable journey!
-
-
--- add image of zoomcall with maureen
--- add image of thread pools
--- add image of nesting dolls 
--- link written posts about mentoring

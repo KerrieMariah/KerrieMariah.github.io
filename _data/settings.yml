@@ -168,7 +168,7 @@ testimonial__items:
 # P Languages Settings
 p_languages:
   enable: true
-  p_languages__title: I have extensive experience in the following languages and frameworks
+  p_languages__title: I have experience in the following languages and frameworks
 
 p_languages__items:
   - name: Ruby
