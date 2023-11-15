@@ -9,8 +9,6 @@ tags: [Travel, Creative Writing]
 ---
 
 As I’m cleaning my nest of a room and reflecting on what I’ll need to pack on my upcoming journey back East, I can’t help but think fondly and forlornly of the home I’m about to leave…again. Over noonday margaritas last week, I was telling my dad of my upcoming plans and he let slip, “What are you running from?” and it made me stop and wonder quite a few times since.
-
-As I’m cleaning my nest of a room and reflecting on what I’ll need to pack on my upcoming journey back East, I can’t help but think fondly and forlornly of the home I’m about to leave…again. Over noonday margaritas last week, I was telling my dad of my upcoming plans and he let slip, “What are you running from?” and it made me stop and wonder quite a few times since.
  
 <div class="gallery-box">
   <div class="gallery">
